@@ -1,6 +1,6 @@
 class HelloWorld {
     public staic void main(String[] args) {
-	//xxxxxyyyyy
+	//xxxxxyyyyyuuuu
         System.out.println("hahahah");
     }
 }
