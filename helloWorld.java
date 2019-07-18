@@ -1,6 +1,6 @@
 class HelloWorld {
     public staic void main(String[] args) {
-	//xxxxxyyyyyuuuudsfsdfsd
+	//rebaserebase
         System.out.println("haiiiihahah");
     }
 }
